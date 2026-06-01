@@ -1,7 +1,7 @@
 //Way too  long words
 
 import java.util.*;
-public class prob71A {
+public class prob3_71A {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         
